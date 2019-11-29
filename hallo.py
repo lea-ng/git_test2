@@ -1,5 +1,3 @@
-def hallo(name):
-    print("heyy:" + name)
+print("heyy Git")
 
-
-hallo("Git")
+print("hi 3")
